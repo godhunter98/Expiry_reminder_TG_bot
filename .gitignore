@@ -1,0 +1,7 @@
+bot_env/
+bot.log*
+api_key*
+holidays*
+test.py*
+__pycache__/
+expiry_dates.py*
